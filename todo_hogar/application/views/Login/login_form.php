@@ -21,7 +21,7 @@
             </div>
             <div class="text-center"><div class="text-danger"><?php echo form_error('pass'); ?></div></div> 
             <button class="btn btn-primary btn-lg btn-block" type="submit">Iniciar Sesi&oacute;n</button>
-            <!--<button class="btn btn-info btn-lg btn-block" type="button" onclick="closer()">Cancelar </button> -->
+            <button class="btn btn-info btn-lg btn-block" type="button" onclick="closer()">Cancelar </button> 
         </div>
 
       </form>

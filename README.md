@@ -1,2 +1,2 @@
 # pasantia
-Proyecto de tesina
+Proyecto de tesina de grado _githat_
